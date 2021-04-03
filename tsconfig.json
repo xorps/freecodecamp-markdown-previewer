@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "strictNullChecks": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "noEmit": true,
+        "noEmitOnError": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react-jsx"
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+}
